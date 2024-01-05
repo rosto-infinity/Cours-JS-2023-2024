@@ -293,3 +293,6 @@ for (const eleve3 of eleves3) {
     // affichera alternativement : Jean, Marc, Marie
     console.log(eleve3) 
 }
+
+
+
